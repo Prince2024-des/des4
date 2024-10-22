@@ -1,0 +1,185 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* navbar section starts here */
+
+.container{
+    /* background-color:beige; */
+    
+}
+
+.text-menu ul{
+     display: flex;
+     justify-content: center;
+     justify-content: space-evenly;
+     
+}
+
+ul li{
+    /* padding:-10px; */
+    margin:20px;
+    justify-content: space-between;
+    list-style: none;
+     
+    
+}
+
+
+ul li a{
+    text-decoration: none;
+    
+
+    
+}
+
+
+
+
+/* navbar  section ends here */
+
+/* <!-- code section starts here --> */
+
+.item img{
+    width: 80px;
+    margin-top: 20px;
+    margin-left: -10rem;
+    height:5rem;
+}
+
+.item .confirm{
+/* display: flex; */
+}
+
+#code {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+
+.confirm{
+    position: absolute;
+    float: none;
+    top: 6rem;
+    margin-left: 5rem;
+    font-size:15px;
+    
+}
+
+
+.confirm h1{
+    font-size: 15px;
+    margin-bottom: 20px;
+    margin-left: 20px;
+
+}
+
+
+/* <!-- code section ends here --> */
+
+/* paragragh section starts here */
+
+.order{
+    /* text-align: center; */
+    /* width: 100px; */
+}
+
+
+.amount h1{
+    text-align: center;
+    margin-left: 15rem;
+    margin: 2rem;
+
+}
+
+
+.order p{
+    text-align: center;
+    width:300px;
+    margin-left: 32em;
+    margin-top: 10px;
+}
+
+
+
+
+
+
+
+
+/* paragragh section ends here */
+
+.container  img{
+    /* width: 100%; */
+    /* height: 100%; */
+}
+
+
+#project .container{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    display: flex;
+    /* flex-direction: colu; */
+    align-items: center;
+    justify-content: center;
+    /* width: 100%; */
+    
+}
+
+#project .container img{
+    width: 15rem;
+    height: 20vh;
+    margin-top: 50px;
+    margin: 20px;
+    box-shadow: ;
+   
+
+}
+
+
+.variable h1{
+    margin-left: 5rem;
+    font-weight: 100;
+}
+
+
+.variable h2{
+    margin-left: 6rem;
+    margin-bottom: 10px;
+    font-size: 20px;
+    font-weight: 100;
+}
+
+
+.food-head h1{
+    text-align: center;
+    margin-top: 50px;
+    margin-bottom: 20px;
+}
+
+.food-head h2{
+    text-align: center;
+    margin: 10px;
+    font-size:20px ;
+
+}
+
+
+.icon{
+    background-color: aliceblue;
+    margin-top: 50px;
+    margin-bottom: 20px;
+}
+
+.icon h1{
+    text-align: center;
+    padding: 20px;
+    /* font-weight: 100; */
+}
+
+
+
+
